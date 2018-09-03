@@ -5,7 +5,7 @@ var should = require("should");
 //var mocha = require('mocha')
 
 //process.env['mocha-unfunk-style'] = 'css';
-log.info('log start');
+//log.info('log start');
 
 
 
